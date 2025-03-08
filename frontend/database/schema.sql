@@ -4,3 +4,4 @@ CREATE TABLE user_preferences (
     dietary_pref TEXT,
     last_used_ingredients TEXT
 );
+
