@@ -1,5 +1,0 @@
-fastapi==0.95.0
-uvicorn==0.22.0
-python-dotenv==1.0.0
-openai==0.27.8
-sqlite3==3.36.0  # Built-in Python library; no need to install separately.
